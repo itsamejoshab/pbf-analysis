@@ -4,7 +4,7 @@
 <span style="color: grey;">August 5, 2020</span>
 
 [GitHub](https://github.com/CodeForPhilly/pbf-analysis)  
-[Website](https://www.phillybailfund.org/)
+[Website](https://www.phillybailfund.org/)  
 [Rpubs](https://rpubs.com/jazzmine/pbf-analysis) 
 -----
 
